@@ -57,10 +57,6 @@ The database consists of three interconnected tables:
    * Analyzing catalog breadth (unique titles) versus physical inventory depth (stock counts) across genres to ensure purchasing strategies match customer demand.
 
 ---
+## 🔩 Entity Relationship Diagram
 
-## 📁 Repository Structure
-```text
-├── schema.sql           # Database schema & table creation scripts
-├── data/                # CSV files (Books.csv, Orders.csv, Customers.csv)
-├── queries.sql          # Full suite of analytical SQL queries
-└── README.md            # Project documentation
+<img width="720" height="540" alt="Screenshot 2026-08-03 at 7 02 20 PM" src="https://github.com/user-attachments/assets/83c46b68-2254-4a6f-a91e-fa34e373566b" />
