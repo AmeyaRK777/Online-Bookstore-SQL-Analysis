@@ -1,5 +1,11 @@
 # 📚 E-Commerce Bookstore SQL Data Analytics & Business Insights
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## 📌 Project Overview
 This repository contains an end-to-end SQL analysis of an online bookstore database consisting of **Books**, **Customers**, and **Orders**. The primary objective of this project is to perform exploratory data analysis, solve transactional business problems, evaluate sales performance, and derive actionable insights to optimize inventory management and customer strategy.
 
